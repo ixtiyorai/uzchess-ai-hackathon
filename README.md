@@ -65,7 +65,7 @@ The system provides:
 
 ## 🎪 Demo for Judges
 
-**Live Demo**: [Your deployed URL]
+**Live Demo**: (https://lanimircc7.pythonanywhere.com/)
 
 **Key Innovation**: Unlike static opening books, our AI personalizes recommendations based on individual player strength, making chess learning more effective.
 
